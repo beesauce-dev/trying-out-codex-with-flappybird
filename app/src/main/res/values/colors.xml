@@ -1,0 +1,7 @@
+<resources>
+    <color name="sky_blue">#87CEEB</color>
+    <color name="pipe_green">#4CAF50</color>
+    <color name="bird_yellow">#FFD54F</color>
+    <color name="ground_brown">#8D6E63</color>
+    <color name="white">#FFFFFF</color>
+</resources>
